@@ -18,7 +18,7 @@
         "ext-http": "*",
         "ext-imagick": "*",
         "ext-mbstring": "*",
-        "DronTat/TSPL_Driver_Printer" : "dev-master"
+        "DronTat/TSPL_Printer" : "dev-master"
     },
     "repositories": [
         {
