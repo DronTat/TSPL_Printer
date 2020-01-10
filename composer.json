@@ -15,9 +15,11 @@
         }
     },
     "require": {
-      "ext-gd": "*",
-      "ext-http": "*",
-      "ext-imagick": "*",
-      "ext-mbstring": "*"
-    }
+        "ext-gd": "*",
+        "ext-http": "*",
+        "ext-imagick": "*",
+        "ext-mbstring": "*",
+        "mortezarajabi/jdate" : "dev-master"
+    },
+    "minimum-stability": "dev"
 }
