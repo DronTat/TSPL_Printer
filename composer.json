@@ -1,0 +1,23 @@
+{
+    "name": "tspl-driver-printer/src",
+    "type" : "library",
+    "description": "tspl-driver",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Andrey Fedorov",
+            "email": "andrey1912@rambler.ru"
+        }
+    ],
+    "autoload": {
+        "psr4": {
+            "TSPL_Driver_Printer\\": "src"
+        }
+    },
+    "require": {
+      "ext-gd": "*",
+      "ext-http": "*",
+      "ext-imagick": "*",
+      "ext-mbstring": "*"
+    }
+}
