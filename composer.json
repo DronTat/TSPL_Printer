@@ -1,6 +1,5 @@
 {
     "name": "tspl-printer",
-    "type" : "library",
     "description": "q",
     "license" : "MIT",
     "authors": [
@@ -21,5 +20,11 @@
         "ext-mbstring": "*",
         "DronTat/TSPL_Driver_Printer" : "dev-master"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/DronTat/TSPL_Printer"
+        }
+    ],
     "minimum-stability": "dev"
 }
