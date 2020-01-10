@@ -19,7 +19,7 @@
         "ext-http": "*",
         "ext-imagick": "*",
         "ext-mbstring": "*",
-        "mortezarajabi/jdate" : "dev-master"
+        "DronTat/TSPL_Driver_Printer" : "dev-master"
     },
     "minimum-stability": "dev"
 }
