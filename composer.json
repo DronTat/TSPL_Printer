@@ -1,7 +1,7 @@
 {
-    "name": "tspl-driver-printer/src",
+    "name": "tspl-printer",
     "type" : "library",
-    "description": "tspl-driver",
+    "description": "q",
     "license" : "MIT",
     "authors": [
         {
