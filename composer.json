@@ -15,5 +15,15 @@
             "email": "andrey1912@rambler.ru"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/drontat/tspl_printer"
+        },
+        {
+            "type": "composer",
+            "url": "http://packages.example.com"
+        }
+    ],
     "minimum-stability": "stable"
 }
