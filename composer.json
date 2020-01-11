@@ -18,12 +18,12 @@
         "ext-http": "*",
         "ext-imagick": "*",
         "ext-mbstring": "*",
-        "DronTat/TSPL_Printer" : "dev-master"
+        "drontat/tspl_printer" : "dev-master"
     },
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/DronTat/TSPL_Printer"
+            "url": "https://github.com/drontat/tspl_printer"
         }
     ],
     "minimum-stability": "dev"
