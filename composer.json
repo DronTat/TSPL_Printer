@@ -2,11 +2,6 @@
     "name": "drontat/tspl_printer",
     "description": "TSPL",
     "type": "library",
-    "require": {
-        "ext-gd": "*",
-        "ext-imagick": "*",
-        "ext-mbstring": "*"
-    },
     "license": "MIT",
     "authors": [
         {
