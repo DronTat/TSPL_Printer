@@ -9,5 +9,10 @@
             "email": "andrey1912@rambler.ru"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "tspl_printer\\": "src"
+        }
+    },
     "minimum-stability": "stable"
 }
