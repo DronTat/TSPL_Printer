@@ -4,7 +4,6 @@
     "type": "library",
     "require": {
         "ext-gd": "*",
-        "ext-http": "*",
         "ext-imagick": "*",
         "ext-mbstring": "*"
     },
