@@ -1,11 +1,11 @@
 <?php
 
-namespace tspl_printer\src;
+namespace tspl_printer;
 
 use BadMethodCallException;
 use Exception;
 use InvalidArgumentException;
-use tspl_printer\src\PrinterConnectors\PrintConnector;
+use tspl_printer\PrinterConnectors\PrintConnector;
 
 class TsplPrinter
 {

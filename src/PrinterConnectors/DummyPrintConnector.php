@@ -10,7 +10,7 @@
  * for details.
  */
 
-namespace tspl_printer\src\PrinterConnectors;
+namespace tspl_printer\PrinterConnectors;
 
 /**
  * Print connector that writes to nowhere, but allows the user to retrieve the

@@ -1,6 +1,6 @@
 <?php
 
-namespace tspl_printer\src\PrinterConnectors;
+namespace tspl_printer\PrinterConnectors;
 
 use Exception;
 

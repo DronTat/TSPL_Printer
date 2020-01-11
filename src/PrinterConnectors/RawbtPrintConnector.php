@@ -10,7 +10,7 @@
  * for details.
  */
 
-namespace tspl_printer\src\PrinterConnectors;
+namespace tspl_printer\PrinterConnectors;
 
 /**
  * Print connector for android RawBT application
