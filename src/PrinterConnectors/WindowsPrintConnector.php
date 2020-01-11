@@ -10,7 +10,7 @@
  * for details.
  */
 
-namespace TSPL_Driver_Printer\src\PrinterConnectors;
+namespace tspl_printer\src\PrinterConnectors;
 
 use Exception;
 use BadMethodCallException;

@@ -1,5 +1,5 @@
 <?php
-namespace TSPL_Driver_Printer\src\PrinterConnectors;
+namespace tspl_printer\src\PrinterConnectors;
 
 /**
  * Wrap multiple connectors up, to print to several printers at the same time.
