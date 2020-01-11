@@ -15,5 +15,5 @@
             "email": "andrey1912@rambler.ru"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
