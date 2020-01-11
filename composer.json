@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr4": {
+        "psr-4": {
             "TSPL_Driver_Printer\\": "src"
         }
     },
