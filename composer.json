@@ -1,0 +1,19 @@
+{
+    "name": "drontat/tspl_printer",
+    "description": "TSPL",
+    "type": "library",
+    "require": {
+        "ext-gd": "*",
+        "ext-http": "*",
+        "ext-imagick": "*",
+        "ext-mbstring": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Fedorov",
+            "email": "andrey1912@rambler.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
