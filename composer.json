@@ -1,7 +1,8 @@
 {
     "name": "drontat/tspl_printer",
-    "description": "q",
+    "description": "Библиотека для работы с притерами по протоколу TSPL",
     "license" : "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Andrey Fedorov",
@@ -18,7 +19,6 @@
         "ext-http": "*",
         "ext-imagick": "*",
         "ext-mbstring": "*",
-        "drontat/tspl_printer" : "dev-master"
     },
     "repositories": [
         {
