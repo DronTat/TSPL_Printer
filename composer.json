@@ -26,5 +26,5 @@
             "url": "https://github.com/drontat/tspl_printer"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
